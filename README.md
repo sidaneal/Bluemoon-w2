@@ -12,6 +12,7 @@ This lab focused on the systematic discovery and exploitation of a target machin
 4. **Exploitation**: The most challenging phase was cracking the **FTP password**. After identifying the necessary wordlists and tools (like Hydra), I successfully gained access to the server.
 
 
+![Uploading image.png…]()
 
 ## Tool & Command Reference
 
