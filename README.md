@@ -11,8 +11,8 @@ This lab focused on the systematic discovery and exploitation of a target machin
 3. **Web Enumeration**: I accessed the target via **Firefox** to inspect the web interface. To uncover hidden paths, I ran **Gobuster**, which successfully revealed a hidden directory containing a **QR code**.
 4. **Exploitation**: The most challenging phase was cracking the **FTP password**. After identifying the necessary wordlists and tools (like Hydra), I successfully gained access to the server.
 
+<img width="592" height="602" alt="image" src="https://github.com/user-attachments/assets/2e4e4d02-9f32-416a-84d7-02a66936c4f6" />
 
-![Uploading image.png…]()
 
 ## Tool & Command Reference
 
